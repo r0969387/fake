@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tomatoes",
+      "season": "Summer",
+      "price_per_kg": 2.50,
+      "availability": "In Stock",
+      "description": "Juicy and ripe tomatoes perfect for salads and sandwiches"
+    },
+    {
+      "id": 2,
+      "name": "Carrots",
+      "season": "Spring",
+      "price_per_kg": 1.25,
+      "availability": "Limited Stock",
+      "description": "Crunchy and sweet carrots great for snacking and cooking"
+    },
+    {
+      "id": 3,
+      "name": "Apples",
+      "season": "Autumn",
+      "price_per_kg": 3.00,
+      "availability": "In Stock",
+      "description": "Sweet and crunchy apples perfect for snacking and baking"
+    },
+    {
+      "id": 4,
+      "name": "Potatoes",
+      "season": "Winter",
+      "price_per_kg": 1.50,
+      "availability": "In Stock",
+      "description": "Fluffy and flavorful potatoes great for mashing and roasting"
+    },
+    {
+      "id": 5,
+      "name": "Onions",
+      "season": "Spring",
+      "price_per_kg": 0.75,
+      "availability": "In Stock",
+      "description": "Sweet and mild onions perfect for cooking and flavoring"
+    },
+    {
+      "id": 6,
+      "name": "Peppers",
+      "season": "Summer",
+      "price_per_kg": 2.00,
+      "availability": "In Stock",
+      "description": "Sweet and crunchy peppers great for snacking and adding to dishes"
+    },
+    {
+      "id": 7,
+      "name": "Cucumbers",
+      "season": "Summer",
+      "price_per_kg": 1.50,
+      "availability": "In Stock",
+      "description": "Refreshing and crunchy cucumbers perfect for snacking and salads"
+    },
+    {
+      "id": 8,
+      "name": "Eggs",
+      "season": "Year-Round",
+      "price_per_kg": 2.00,
+      "availability": "In Stock",
+      "description": "Fresh and flavorful eggs perfect for cooking and baking"
+    },
+    {
+      "id": 9,
+      "name": "Milk",
+      "season": "Year-Round",
+      "price_per_kg": 1.50,
+      "availability": "In Stock",
+      "description": "Fresh and creamy milk perfect for drinking and cooking"
+    },
+    {
+      "id": 10,
+      "name": "Butter",
+      "season": "Year-Round",
+      "price_per_kg": 3.50,
+      "availability": "In Stock",
+      "description": "Rich and creamy butter perfect for cooking and baking"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Farmers' Market",
+      "event_date": "2023-04-15",
+      "event_time": "9:00 AM",
+      "description": "Join us for a day of fresh produce, local artisans, and community fun!",
+      "location": "Downtown Park"
+    },
+    {
+      "id": 2,
+      "name": "Harvest Festival",
+      "event_date": "2023-09-17",
+      "event_time": "12:00 PM",
+      "description": "Celebrate the harvest season with us! Enjoy live music, food, and games for all ages.",
+      "location": "Farm Field"
+    },
+    {
+      "id": 3,
+      "name": "Farm-to-Table Dinner",
+      "event_date": "2023-06-10",
+      "event_time": "6:00 PM",
+      "description": "Join us for a farm-to-table dinner featuring fresh produce from our farm and local chefs.",
+      "location": "Farmhouse"
+    },
+    {
+      "id": 4,
+      "name": "Farmers' Workshop",
+      "event_date": "2023-03-19",
+      "event_time": "10:00 AM",
+      "description": "Learn the art of farming from our experienced farmers! Topics include soil preparation, crop rotation, and more.",
+      "location": "Farm Office"
+    },
+    {
+      "id": 5,
+      "name": "Farmers' Market",
+      "event_date": "2023-05-20",
+      "event_time": "9:00 AM",
+      "description": "Join us for a day of fresh produce, local artisans, and community fun!",
+      "location": "Downtown Park"
+    },
+    {
+      "id": 6,
+      "name": "Harvest Festival",
+      "event_date": "2023-10-15",
+      "event_time": "12:00 PM",
+      "description": "Celebrate the harvest season with us! Enjoy live music, food, and games for all ages.",
+      "location": "Farm Field"
+    },
+    {
+      "id": 7,
+      "name": "Farm-to-Table Dinner",
+      "event_date": "2023-07-22",
+      "event_time": "6:00 PM",
+      "description": "Join us for a farm-to-table dinner featuring fresh produce from our farm and local chefs.",
+      "location": "Farmhouse"
+    },
+    {
+      "id": 8,
+      "name": "Farmers' Workshop",
+      "event_date": "2023-04-02",
+      "event_time": "10:00 AM",
+      "description": "Learn the art of farming from our experienced farmers! Topics include soil preparation, crop rotation, and more.",
+      "location": "Farm Office"
+    },
+    {
+      "id": 9,
+      "name": "Farmers' Market",
+      "event_date": "2023-06-17",
+      "event_time": "9:00 AM",
+      "description": "Join us for a day of fresh produce, local artisans, and community fun!",
+      "location": "Downtown Park"
+    },
+    {
+      "id": 10,
+      "name": "Harvest Festival",
+      "event_date": "2023-11-12",
+      "event_time": "12:00 PM",
+      "description": "Celebrate the harvest season with us! Enjoy live music, food, and games for all ages.",
+      "location": "Farm Field"
+    }
+  ]
+}
